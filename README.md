@@ -1,4 +1,4 @@
 MobileSampleSDKs
 ================
 
-Mobile SDK Samples
+Mobile SDK Samples - these SDK packages were generated using APIMATIC.IO - part of the Swagger Ecosystem
