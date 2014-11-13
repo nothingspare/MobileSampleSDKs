@@ -1,5 +1,6 @@
 MobileSampleSDKs
 ================
+[Alt text](https://github.com/EspressoLogicCafe/MobileSampleSDKs/blob/master/sdklogos.PNG)
 
 Mobile SDK Samples - these SDK packages were generated using https://apimatic.io/ - part of the Swagger Ecosystem
 
