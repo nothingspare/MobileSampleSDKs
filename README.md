@@ -1,6 +1,6 @@
 MobileSampleSDKs
 ================
-[Alt text](./master/sdklogos.PNG?raw=true "Mobile SDK")
+![Alt text](./master/sdklogos.PNG?raw=true "Mobile SDK")
 
 Mobile SDK Samples - these SDK packages were generated using https://apimatic.io/ - part of the Swagger Ecosystem
 
